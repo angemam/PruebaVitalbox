@@ -1,0 +1,27 @@
+h1 {
+    background-color: #ffffff;
+    position: relative;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-left: 30px;
+  }
+
+h3 {
+    background-color: rgb(255, 255, 255);
+    /*#a8a8a8;*/
+    position: relative;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-left: 30px;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.registro {
+    background-color: #ffffff;
+    position: relative;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+

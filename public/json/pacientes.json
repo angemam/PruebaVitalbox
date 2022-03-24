@@ -1,0 +1,26 @@
+[
+    {
+      "nombre": "Ana",
+      "tipo_doc": "Pasaporte",
+      "num_doc": 78765,
+      "fecha": "1998-02-04",
+      "peso": 48,
+      "talla":1.65
+    },
+    {
+        "nombre": "Pedro",
+        "tipo_doc": "Pasaporte",
+        "num_doc": 4835,
+        "fecha": "1974-02-04",
+        "peso": 60,
+        "talla":1.70
+    },
+    {
+        "nombre": "Juan",
+        "tipo_doc": "Pasaporte",
+        "num_doc": 875545,
+        "fecha": "2000-02-04",
+        "peso": 96,
+        "talla":1.83
+    }
+]
